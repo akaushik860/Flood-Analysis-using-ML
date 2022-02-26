@@ -1,7 +1,7 @@
 # Minor_Project
 This is Project of Flood analysis based on Machine learning algorithm and data science methodology.
 
-#To run the App in your system:
+# To run the App in your system:
 1) Download/Clone project in your system.
 2) open shell and move to project directory.
 3) type "streamlit run app.py" and then press enter.
